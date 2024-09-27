@@ -1,0 +1,77 @@
+{
+  "pigs": [
+    {
+      "id": "1",
+      "code": "MH-001",
+      "entryDate": "2023-09-15",
+      "entryWeight": 10,
+      "exitDate": "2024-09-27",
+      "exitWeight": 77,
+      "origin": "Trang trại A"
+    },
+    {
+      "id": "2",
+      "code": "MH-002",
+      "entryDate": "2023-09-10",
+      "entryWeight": 12,
+      "exitDate": "2023-09-25",
+      "exitWeight": 15,
+      "origin": "Trang trại B"
+    },
+    {
+      "id": "3",
+      "code": "MH-123",
+      "entryDate": "2024-09-19",
+      "entryWeight": 21,
+      "exitDate": "2024-09-27",
+      "exitWeight": 22,
+      "origin": "Trang trại A"
+    },
+    {
+      "id": "4",
+      "code": "MH-003",
+      "entryDate": "2024-09-02",
+      "entryWeight": 12,
+      "exitDate": "",
+      "exitWeight": 12,
+      "origin": "Trang trại A"
+    },
+    {
+      "id": "5",
+      "code": "MH-111",
+      "entryDate": "2024-09-05",
+      "entryWeight": 6,
+      "exitDate": "",
+      "exitWeight": 6,
+      "origin": "Trang trại B"
+    },
+    {
+      "id": "6",
+      "code": "MH-008",
+      "entryDate": "2024-09-26",
+      "entryWeight": 77,
+      "exitDate": "",
+      "exitWeight": 77,
+      "origin": "Trang trại A"
+    },
+    {
+      "id": 7,
+      "code": "MH-004",
+      "entryDate": "2024-09-20",
+      "entryWeight": 11,
+      "exitDate": "",
+      "exitWeight": 11,
+      "origin": "Trang trại A"
+    }
+  ],
+  "origins": [
+    {
+      "id": "1",
+      "name": "Trang trại A"
+    },
+    {
+      "id": "2",
+      "name": "Trang trại B"
+    }
+  ]
+}
